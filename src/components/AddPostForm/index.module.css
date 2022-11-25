@@ -1,0 +1,22 @@
+.add_form {
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    padding: 20px 100px 0;
+}
+
+.add_form button{
+    background-color: green;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 10px;
+    width: 70px;
+    cursor: pointer;
+}
+.add_form input {
+    border: 1px solid green;
+    border-radius: 5px;
+    outline: none;
+}
